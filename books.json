@@ -1,0 +1,965 @@
+[
+  {
+    "id": 1,
+    "title": "Белая гвардия",
+    "author": "Михаил Булгаков",
+    "price": 59900,
+    "pagesCount": 368,
+    "readingTime": "9 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/1_Bulgakov_BelayaGvardiya.txt"
+  },
+  {
+    "id": 2,
+    "title": "Дьяволиада",
+    "author": "Михаил Булгаков",
+    "price": 34900,
+    "pagesCount": 96,
+    "readingTime": "2 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/2_Bulgakov_Diavoliada.txt"
+  },
+  {
+    "id": 3,
+    "title": "Мастер и Маргарита",
+    "author": "Михаил Булгаков",
+    "price": 79900,
+    "pagesCount": 480,
+    "readingTime": "12 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/3_Bulgakov_Master.txt"
+  },
+  {
+    "id": 4,
+    "title": "Роковые яйца",
+    "author": "Михаил Булгаков",
+    "price": 39900,
+    "pagesCount": 160,
+    "readingTime": "4 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/4_Bulgakov_RokovyeYaytsa.txt"
+  },
+  {
+    "id": 5,
+    "title": "Театральный роман",
+    "author": "Михаил Булгаков",
+    "price": 44900,
+    "pagesCount": 288,
+    "readingTime": "7 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/5_Bulgakov_TeatralnyjRoman.txt"
+  },
+  {
+    "id": 6,
+    "title": "Записки юного врача",
+    "author": "Михаил Булгаков",
+    "price": 37900,
+    "pagesCount": 192,
+    "readingTime": "5 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/6_Bulgakov_ZapiskiYonogoVracha.txt"
+  },
+  {
+    "id": 7,
+    "title": "Дама с собачкой",
+    "author": "Антон Чехов",
+    "price": 29900,
+    "pagesCount": 48,
+    "readingTime": "1 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/7_Chekhov_Dama.txt"
+  },
+  {
+    "id": 8,
+    "title": "Дядя Ваня",
+    "author": "Антон Чехов",
+    "price": 29900,
+    "pagesCount": 80,
+    "readingTime": "2 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/8_Chekhov_Dyadya.txt"
+  },
+  {
+    "id": 9,
+    "title": "Бесы",
+    "author": "Фёдор Достоевский",
+    "price": 64900,
+    "pagesCount": 704,
+    "readingTime": "18 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/9_Dostoyevski_Biesy.txt"
+  },
+  {
+    "id": 10,
+    "title": "Идиот",
+    "author": "Фёдор Достоевский",
+    "price": 69900,
+    "pagesCount": 640,
+    "readingTime": "17 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/10_Dostoyevski_Idiot.txt"
+  },
+  {
+    "id": 11,
+    "title": "Бедные люди",
+    "author": "Фёдор Достоевский",
+    "price": 34900,
+    "pagesCount": 176,
+    "readingTime": "4 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/11_Dostoyevsky_BednyeLyudi.txt"
+  },
+  {
+    "id": 12,
+    "title": "Братья Карамазовы. Часть 1",
+    "author": "Фёдор Достоевский",
+    "price": 34900,
+    "pagesCount": 256,
+    "readingTime": "6 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/12_Dostoyevsky_Karamazow1.txt"
+  },
+  {
+    "id": 13,
+    "title": "Братья Карамазовы. Часть 2",
+    "author": "Фёдор Достоевский",
+    "price": 34900,
+    "pagesCount": 272,
+    "readingTime": "7 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/13_Dostoyevsky_Karamazow2.txt"
+  },
+  {
+    "id": 14,
+    "title": "Братья Карамазовы. Часть 3",
+    "author": "Фёдор Достоевский",
+    "price": 34900,
+    "pagesCount": 288,
+    "readingTime": "7 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/14_Dostoyevsky_Karamazow3.txt"
+  },
+  {
+    "id": 15,
+    "title": "Братья Карамазовы. Часть 4",
+    "author": "Фёдор Достоевский",
+    "price": 34900,
+    "pagesCount": 304,
+    "readingTime": "8 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/15_Dostoyevsky_Karamazow4.txt"
+  },
+  {
+    "id": 16,
+    "title": "Преступление и наказание",
+    "author": "Фёдор Достоевский",
+    "price": 57900,
+    "pagesCount": 672,
+    "readingTime": "18 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/16_Dostoyevsky_PrestupleniyeINakazaniye.txt"
+  },
+  {
+    "id": 17,
+    "title": "Год жизни в Петербурге",
+    "author": "Надежда Дурова",
+    "price": 37900,
+    "pagesCount": 224,
+    "readingTime": "6 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/17_Durova_GodZyznijWPeterburge.txt"
+  },
+  {
+    "id": 18,
+    "title": "Гудишки",
+    "author": "Надежда Дурова",
+    "price": 32900,
+    "pagesCount": 120,
+    "readingTime": "3 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/18_Durova_Gudishki.txt"
+  },
+  {
+    "id": 19,
+    "title": "Игра судьбы",
+    "author": "Надежда Дурова",
+    "price": 34900,
+    "pagesCount": 144,
+    "readingTime": "3 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/19_Durova_IgraSudby.txt"
+  },
+  {
+    "id": 20,
+    "title": "Павильон",
+    "author": "Надежда Дурова",
+    "price": 29900,
+    "pagesCount": 96,
+    "readingTime": "2 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/20_Durova_Pavilion.txt"
+  },
+  {
+    "id": 21,
+    "title": "Серный ключ",
+    "author": "Надежда Дурова",
+    "price": 31900,
+    "pagesCount": 104,
+    "readingTime": "2 ч 45 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/21_Durova_SernyjKljuch.txt"
+  },
+  {
+    "id": 22,
+    "title": "Угол",
+    "author": "Надежда Дурова",
+    "price": 29900,
+    "pagesCount": 88,
+    "readingTime": "2 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/22_Durova_Ugol.txt"
+  },
+  {
+    "id": 23,
+    "title": "Юрчак",
+    "author": "Надежда Дурова",
+    "price": 30900,
+    "pagesCount": 112,
+    "readingTime": "3 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/23_Durova_Yurchak.txt"
+  },
+  {
+    "id": 24,
+    "title": "Идеал",
+    "author": "Елена Ган",
+    "price": 34900,
+    "pagesCount": 160,
+    "readingTime": "4 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/24_Gan_Ideal.txt"
+  },
+  {
+    "id": 25,
+    "title": "Суд света",
+    "author": "Елена Ган",
+    "price": 32900,
+    "pagesCount": 128,
+    "readingTime": "3 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/25_Gan_SudSveta.txt"
+  },
+  {
+    "id": 26,
+    "title": "Чёртова кукла",
+    "author": "Зинаида Гиппиус",
+    "price": 44900,
+    "pagesCount": 256,
+    "readingTime": "6 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/26_Gippius_ChertovayaKukla.txt"
+  },
+  {
+    "id": 27,
+    "title": "Роман-царевич",
+    "author": "Зинаида Гиппиус",
+    "price": 46900,
+    "pagesCount": 288,
+    "readingTime": "7 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/27_Gippius_Roman-Tzarevich.txt"
+  },
+  {
+    "id": 28,
+    "title": "Мёртвые души",
+    "author": "Николай Гоголь",
+    "price": 49900,
+    "pagesCount": 352,
+    "readingTime": "9 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/28_Gogol_Mertvye.txt"
+  },
+  {
+    "id": 29,
+    "title": "Старосветские помещики",
+    "author": "Николай Гоголь",
+    "price": 29900,
+    "pagesCount": 72,
+    "readingTime": "1 ч 55 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/29_Gogol_StarosvyetskiyePomeshchiki.txt"
+  },
+  {
+    "id": 30,
+    "title": "Тарас Бульба",
+    "author": "Николай Гоголь",
+    "price": 37900,
+    "pagesCount": 192,
+    "readingTime": "5 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/30_Gogol_Taras.txt"
+  },
+  {
+    "id": 31,
+    "title": "Вий",
+    "author": "Николай Гоголь",
+    "price": 29900,
+    "pagesCount": 80,
+    "readingTime": "2 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/31_Gogol_Viy.txt"
+  },
+  {
+    "id": 32,
+    "title": "Дело Артамоновых",
+    "author": "Максим Горький",
+    "price": 44900,
+    "pagesCount": 320,
+    "readingTime": "8 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/32_Gorky_ArtamonovBusiness.txt"
+  },
+  {
+    "id": 33,
+    "title": "Фома Гордеев",
+    "author": "Максим Горький",
+    "price": 47900,
+    "pagesCount": 368,
+    "readingTime": "9 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/33_Gorky_FomaGordeev.txt"
+  },
+  {
+    "id": 34,
+    "title": "Мать",
+    "author": "Максим Горький",
+    "price": 42900,
+    "pagesCount": 416,
+    "readingTime": "11 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/34_Gorky_Mat.txt"
+  },
+  {
+    "id": 35,
+    "title": "Жизнь Клима Самгина. Часть 1",
+    "author": "Максим Горький",
+    "price": 44900,
+    "pagesCount": 384,
+    "readingTime": "10 ч 15 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/35_Gorky_ZyznKlimaSamgina1.txt"
+  },
+  {
+    "id": 36,
+    "title": "Жизнь Клима Самгина. Часть 2",
+    "author": "Максим Горький",
+    "price": 46900,
+    "pagesCount": 400,
+    "readingTime": "10 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/36_Gorky_ZyznKlimaSamgina2.txt"
+  },
+  {
+    "id": 37,
+    "title": "Жизнь Клима Самгина. Часть 3",
+    "author": "Максим Горький",
+    "price": 47900,
+    "pagesCount": 432,
+    "readingTime": "11 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/37_Gorky_ZyznKlimaSamgina3.txt"
+  },
+  {
+    "id": 38,
+    "title": "Жизнь Клима Самгина. Часть 4",
+    "author": "Максим Горький",
+    "price": 49900,
+    "pagesCount": 464,
+    "readingTime": "12 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/38_Gorky_ZyznKlimaSamgina4.txt"
+  },
+  {
+    "id": 39,
+    "title": "На Тихом Дону",
+    "author": "Фёдор Крюков",
+    "price": 45900,
+    "pagesCount": 320,
+    "readingTime": "8 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/39_Krjukov_NaTichomDonu.txt"
+  },
+  {
+    "id": 40,
+    "title": "Шквал",
+    "author": "Фёдор Крюков",
+    "price": 32900,
+    "pagesCount": 144,
+    "readingTime": "3 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/40_Krjukov_Shkval.txt"
+  },
+  {
+    "id": 41,
+    "title": "Зыбь",
+    "author": "Фёдор Крюков",
+    "price": 34900,
+    "pagesCount": 176,
+    "readingTime": "4 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/41_Krjukov_Zyb.txt"
+  },
+  {
+    "id": 42,
+    "title": "Ада, или Радости страсти (Ильин)",
+    "author": "Владимир Набоков",
+    "price": 69900,
+    "pagesCount": 560,
+    "readingTime": "14 ч 55 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/42_Nabokov_Ada_1969_Ilin.txt"
+  },
+  {
+    "id": 43,
+    "title": "Арлекинов (Ильин)",
+    "author": "Владимир Набоков",
+    "price": 54900,
+    "pagesCount": 384,
+    "readingTime": "10 ч 15 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/43_Nabokov_Arlekinov_1974_Ilin.txt"
+  },
+  {
+    "id": 44,
+    "title": "Дар",
+    "author": "Владимир Набоков",
+    "price": 57900,
+    "pagesCount": 448,
+    "readingTime": "12 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/44_Nabokov_Dar_1938.txt"
+  },
+  {
+    "id": 45,
+    "title": "Камера обскура",
+    "author": "Владимир Набоков",
+    "price": 44900,
+    "pagesCount": 288,
+    "readingTime": "7 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/45_Nabokov_Kamera_1933.txt"
+  },
+  {
+    "id": 46,
+    "title": "Приглашение на казнь",
+    "author": "Владимир Набоков",
+    "price": 42900,
+    "pagesCount": 256,
+    "readingTime": "6 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/46_Nabokov_Kazn_1936.txt"
+  },
+  {
+    "id": 47,
+    "title": "Король, дама, валет",
+    "author": "Владимир Набоков",
+    "price": 46900,
+    "pagesCount": 320,
+    "readingTime": "8 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/47_Nabokov_Korol_1928.txt"
+  },
+  {
+    "id": 48,
+    "title": "Лолита (перевод Набокова)",
+    "author": "Владимир Набоков",
+    "price": 74900,
+    "pagesCount": 448,
+    "readingTime": "12 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/48_Nabokov_Lolita_1955_Nabokov.txt"
+  },
+  {
+    "id": 49,
+    "title": "Машенька",
+    "author": "Владимир Набоков",
+    "price": 39900,
+    "pagesCount": 208,
+    "readingTime": "5 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/49_Nabokov_Mashenka_1926.txt"
+  },
+  {
+    "id": 50,
+    "title": "Ночь (Ильин)",
+    "author": "Владимир Набоков",
+    "price": 54900,
+    "pagesCount": 352,
+    "readingTime": "9 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/50_Nabokov_Nait_1941_Ilin.txt"
+  },
+  {
+    "id": 51,
+    "title": "Отчаяние",
+    "author": "Владимир Набоков",
+    "price": 45900,
+    "pagesCount": 304,
+    "readingTime": "8 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/51_Nabokov_Otchayanie_1934.txt"
+  },
+  {
+    "id": 52,
+    "title": "Пнин (перевод Барабтарло)",
+    "author": "Владимир Набоков",
+    "price": 47900,
+    "pagesCount": 256,
+    "readingTime": "6 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/52_Nabokov_Pnin_1957_Barabtarlo.txt"
+  },
+  {
+    "id": 53,
+    "title": "Пнин (перевод Ильина)",
+    "author": "Владимир Набоков",
+    "price": 47900,
+    "pagesCount": 256,
+    "readingTime": "6 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/53_Nabokov_Pnin_1957_Ilin.txt"
+  },
+  {
+    "id": 54,
+    "title": "Пнин (перевод Носика)",
+    "author": "Владимир Набоков",
+    "price": 47900,
+    "pagesCount": 256,
+    "readingTime": "6 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/54_Nabokov_Pnin_1957_Nosik.txt"
+  },
+  {
+    "id": 55,
+    "title": "Подвиг",
+    "author": "Владимир Набоков",
+    "price": 44900,
+    "pagesCount": 272,
+    "readingTime": "7 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/55_Nabokov_Podvig_1932.txt"
+  },
+  {
+    "id": 56,
+    "title": "Вещи (Ильин)",
+    "author": "Владимир Набоков",
+    "price": 59900,
+    "pagesCount": 416,
+    "readingTime": "11 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/56_Nabokov_Veschi_1972_Ilin.txt"
+  },
+  {
+    "id": 57,
+    "title": "Защита Лужина",
+    "author": "Владимир Набоков",
+    "price": 46900,
+    "pagesCount": 304,
+    "readingTime": "8 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/57_Nabokov_Zashchita_1930.txt"
+  },
+  {
+    "id": 58,
+    "title": "Знакомство (Ильин)",
+    "author": "Владимир Набоков",
+    "price": 34900,
+    "pagesCount": 160,
+    "readingTime": "4 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/58_Nabokov_Znakom_1947_Ilin.txt"
+  },
+  {
+    "id": 59,
+    "title": "Братец",
+    "author": "Надежда Хвощинская",
+    "price": 32900,
+    "pagesCount": 144,
+    "readingTime": "3 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/59_NKhvoshchinskaya_Bratets.txt"
+  },
+  {
+    "id": 60,
+    "title": "Пансионерка",
+    "author": "Надежда Хвощинская",
+    "price": 34900,
+    "pagesCount": 176,
+    "readingTime": "4 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/60_NKhvoshchinskaya_Pansionerka.txt"
+  },
+  {
+    "id": 61,
+    "title": "Первая борьба",
+    "author": "Надежда Хвощинская",
+    "price": 37900,
+    "pagesCount": 224,
+    "readingTime": "6 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/61_NKhvoshchinskaya_PervayaBorba.txt"
+  },
+  {
+    "id": 62,
+    "title": "После потопа",
+    "author": "Надежда Хвощинская",
+    "price": 39900,
+    "pagesCount": 256,
+    "readingTime": "6 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/62_NKhvoshchinskaya_PoslijePotopa.txt"
+  },
+  {
+    "id": 63,
+    "title": "Прощание",
+    "author": "Надежда Хвощинская",
+    "price": 30900,
+    "pagesCount": 112,
+    "readingTime": "3 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/63_NKhvoshchinskaya_Proshaniye.txt"
+  },
+  {
+    "id": 64,
+    "title": "Домашний",
+    "author": "Авдотья Панаева",
+    "price": 34900,
+    "pagesCount": 192,
+    "readingTime": "5 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/64_Panaeva_Domashny.txt"
+  },
+  {
+    "id": 65,
+    "title": "Пасека",
+    "author": "Авдотья Панаева",
+    "price": 29900,
+    "pagesCount": 96,
+    "readingTime": "2 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/65_Panaeva_Paseka.txt"
+  },
+  {
+    "id": 66,
+    "title": "Степь",
+    "author": "Авдотья Панаева",
+    "price": 31900,
+    "pagesCount": 128,
+    "readingTime": "3 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/66_Panaeva_Steppe.txt"
+  },
+  {
+    "id": 67,
+    "title": "Тальников",
+    "author": "Авдотья Панаева",
+    "price": 32900,
+    "pagesCount": 160,
+    "readingTime": "4 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/67_Panaeva_Talnikov.txt"
+  },
+  {
+    "id": 68,
+    "title": "Арап Петра Великого",
+    "author": "Александр Пушкин",
+    "price": 34900,
+    "pagesCount": 112,
+    "readingTime": "3 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/68_Pushkin_ArapPetraVelikogo.txt"
+  },
+  {
+    "id": 69,
+    "title": "Капитанская дочка",
+    "author": "Александр Пушкин",
+    "price": 37900,
+    "pagesCount": 176,
+    "readingTime": "4 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/69_Pushkin_CapitanskaaDochka.txt"
+  },
+  {
+    "id": 70,
+    "title": "Дубровский",
+    "author": "Александр Пушкин",
+    "price": 35900,
+    "pagesCount": 144,
+    "readingTime": "3 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/70_Pushkin_Dubrovsky.txt"
+  },
+  {
+    "id": 71,
+    "title": "Пиковая дама",
+    "author": "Александр Пушкин",
+    "price": 29900,
+    "pagesCount": 80,
+    "readingTime": "2 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/71_Pushkin_Pikovaya.txt"
+  },
+  {
+    "id": 72,
+    "title": "Повести покойного Ивана Петровича Белкина",
+    "author": "Александр Пушкин",
+    "price": 39900,
+    "pagesCount": 192,
+    "readingTime": "5 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/72_Pushkin_PovestiPokoynogoIvanaPetrovichaBelkina.txt"
+  },
+  {
+    "id": 73,
+    "title": "Поднятая целина",
+    "author": "Михаил Шолохов",
+    "price": 59900,
+    "pagesCount": 496,
+    "readingTime": "13 ч 15 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/73_Sholokhov_PodnyatayaTselina.txt"
+  },
+  {
+    "id": 74,
+    "title": "Тихий Дон",
+    "author": "Михаил Шолохов",
+    "price": 89900,
+    "pagesCount": 1600,
+    "readingTime": "42 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/74_Sholokhov_TikhiiDon.txt"
+  },
+  {
+    "id": 75,
+    "title": "Городские и деревенские",
+    "author": "Софья Хвощинская",
+    "price": 36900,
+    "pagesCount": 208,
+    "readingTime": "5 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/75_SKhvoshchinskaya_GorodskieIDerevenskie.txt"
+  },
+  {
+    "id": 76,
+    "title": "Капли крови",
+    "author": "Фёдор Сологуб",
+    "price": 42900,
+    "pagesCount": 288,
+    "readingTime": "7 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/76_Sologub_KapliKrovi.txt"
+  },
+  {
+    "id": 77,
+    "title": "Королева Ортруда",
+    "author": "Фёдор Сологуб",
+    "price": 54900,
+    "pagesCount": 448,
+    "readingTime": "12 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/77_Sologub_KorolevaOrtruda.txt"
+  },
+  {
+    "id": 78,
+    "title": "Мелкий бес",
+    "author": "Фёдор Сологуб",
+    "price": 46900,
+    "pagesCount": 352,
+    "readingTime": "9 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/78_Sologub_MelkijBes.txt"
+  },
+  {
+    "id": 79,
+    "title": "Тяжёлые сны",
+    "author": "Фёдор Сологуб",
+    "price": 44900,
+    "pagesCount": 320,
+    "readingTime": "8 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/79_Sologub_TjazolyjeSny.txt"
+  },
+  {
+    "id": 80,
+    "title": "Анна Каренина",
+    "author": "Лев Толстой",
+    "price": 69900,
+    "pagesCount": 864,
+    "readingTime": "23 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/80_Tolstoi_AnnaKarenina.txt"
+  },
+  {
+    "id": 81,
+    "title": "Семейное счастие",
+    "author": "Лев Толстой",
+    "price": 34900,
+    "pagesCount": 176,
+    "readingTime": "4 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/81_Tolstoi_SemeynoyeSchastiye.txt"
+  },
+  {
+    "id": 82,
+    "title": "Воскресение",
+    "author": "Лев Толстой",
+    "price": 59900,
+    "pagesCount": 576,
+    "readingTime": "15 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/82_Tolstoi_Voskreseniye.txt"
+  },
+  {
+    "id": 83,
+    "title": "Война и мир. Том 1",
+    "author": "Лев Толстой",
+    "price": 49900,
+    "pagesCount": 384,
+    "readingTime": "10 ч 15 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/83_Tolstoi_VoynaIMir1.txt"
+  },
+  {
+    "id": 84,
+    "title": "Война и мир. Том 2",
+    "author": "Лев Толстой",
+    "price": 49900,
+    "pagesCount": 400,
+    "readingTime": "10 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/84_Tolstoi_VoynaIMir2.txt"
+  },
+  {
+    "id": 85,
+    "title": "Война и мир. Том 3",
+    "author": "Лев Толстой",
+    "price": 49900,
+    "pagesCount": 416,
+    "readingTime": "11 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/85_Tolstoi_VoynaIMir3.txt"
+  },
+  {
+    "id": 86,
+    "title": "Война и мир. Том 4",
+    "author": "Лев Толстой",
+    "price": 49900,
+    "pagesCount": 432,
+    "readingTime": "11 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/86_Tolstoi_VoynaIMir4.txt"
+  },
+  {
+    "id": 87,
+    "title": "Война и мир (ранняя редакция)",
+    "author": "Лев Толстой",
+    "price": 64900,
+    "pagesCount": 720,
+    "readingTime": "19 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/87_Tolstoi_VoynaIMir_ver1.txt"
+  },
+  {
+    "id": 88,
+    "title": "Дворянское гнездо",
+    "author": "Иван Тургенев",
+    "price": 44900,
+    "pagesCount": 320,
+    "readingTime": "8 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/88_Turgenev_DvoryanskoyeGnezdo.txt"
+  },
+  {
+    "id": 89,
+    "title": "Дым",
+    "author": "Иван Тургенев",
+    "price": 39900,
+    "pagesCount": 256,
+    "readingTime": "6 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/89_Turgenev_Dym.txt"
+  },
+  {
+    "id": 90,
+    "title": "Накануне",
+    "author": "Иван Тургенев",
+    "price": 37900,
+    "pagesCount": 240,
+    "readingTime": "6 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/90_Turgenev_Nakanune.txt"
+  },
+  {
+    "id": 91,
+    "title": "Новь",
+    "author": "Иван Тургенев",
+    "price": 46900,
+    "pagesCount": 352,
+    "readingTime": "9 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/91_Turgenev_Nov.txt"
+  },
+  {
+    "id": 92,
+    "title": "Отцы и дети",
+    "author": "Иван Тургенев",
+    "price": 42900,
+    "pagesCount": 304,
+    "readingTime": "8 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/92_Turgenev_OttsyIDeti.txt"
+  },
+  {
+    "id": 93,
+    "title": "Рудин",
+    "author": "Иван Тургенев",
+    "price": 36900,
+    "pagesCount": 224,
+    "readingTime": "6 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/93_Turgenev_Rudin.txt"
+  },
+  {
+    "id": 94,
+    "title": "Вешние воды",
+    "author": "Иван Тургенев",
+    "price": 38900,
+    "pagesCount": 256,
+    "readingTime": "6 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/94_Turgenev_VeshniyeVody.txt"
+  },
+  {
+    "id": 95,
+    "title": "Шалонские (семейство)",
+    "author": "Евгения Тур",
+    "price": 44900,
+    "pagesCount": 320,
+    "readingTime": "8 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/95_Tur_ShalonskiFamily.txt"
+  },
+  {
+    "id": 96,
+    "title": "Старушка",
+    "author": "Евгения Тур",
+    "price": 32900,
+    "pagesCount": 160,
+    "readingTime": "4 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/96_Tur_Starushka.txt"
+  },
+  {
+    "id": 97,
+    "title": "Ольга (части 2-6)",
+    "author": "Зинаида Волконская",
+    "price": 51900,
+    "pagesCount": 480,
+    "readingTime": "12 ч 50 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/97_Volkonskaya_Olga2-6.txt"
+  },
+  {
+    "id": 98,
+    "title": "Человек",
+    "author": "Марко Вовчок",
+    "price": 34900,
+    "pagesCount": 192,
+    "readingTime": "5 ч 10 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/98_Vovchok_Chelovek.txt"
+  },
+  {
+    "id": 99,
+    "title": "Червонный король",
+    "author": "Марко Вовчок",
+    "price": 36900,
+    "pagesCount": 224,
+    "readingTime": "6 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/99_Vovchok_ChervonnyjKorol.txt"
+  },
+  {
+    "id": 100,
+    "title": "Путешествие во внутрь страны",
+    "author": "Марко Вовчок",
+    "price": 39900,
+    "pagesCount": 288,
+    "readingTime": "7 ч 40 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/100_Vovchok_PuteshestvieVoVnutrStrany.txt"
+  },
+  {
+    "id": 101,
+    "title": "Той",
+    "author": "Марко Вовчок",
+    "price": 30900,
+    "pagesCount": 128,
+    "readingTime": "3 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/101_Vovchok_Toy.txt"
+  },
+  {
+    "id": 102,
+    "title": "Тулевая баба",
+    "author": "Марко Вовчок",
+    "price": 32900,
+    "pagesCount": 160,
+    "readingTime": "4 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/102_Vovchok_TulevayaBaba.txt"
+  },
+  {
+    "id": 103,
+    "title": "Записки причётника",
+    "author": "Марко Вовчок",
+    "price": 37900,
+    "pagesCount": 240,
+    "readingTime": "6 ч 20 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/103_Vovchok_ZapiskiPrichyotnika.txt"
+  },
+  {
+    "id": 104,
+    "title": "Затейник",
+    "author": "Марко Вовчок",
+    "price": 29900,
+    "pagesCount": 112,
+    "readingTime": "3 ч 00 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/104_Vovchok_Zateinik.txt"
+  },
+  {
+    "id": 105,
+    "title": "Барон Рейхман",
+    "author": "Мария Жукова",
+    "price": 34900,
+    "pagesCount": 208,
+    "readingTime": "5 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/105_Zhukova_BaronReichman.txt"
+  },
+  {
+    "id": 106,
+    "title": "Дача",
+    "author": "Мария Жукова",
+    "price": 29900,
+    "pagesCount": 96,
+    "readingTime": "2 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/106_Zhukova_Dacha.txt"
+  },
+  {
+    "id": 107,
+    "title": "Тридцать три уродства",
+    "author": "Лидия Зиновьева-Аннибал",
+    "price": 44900,
+    "pagesCount": 320,
+    "readingTime": "8 ч 30 мин",
+    "previewText": "C:/_My/!!Учёба/3 курс 2с/Охапкина/Прог Инж/Реализация/corpus/preview_10/107_Zinovieva-Annibal_TridtsatTriUgoda.txt"
+  }
+]
